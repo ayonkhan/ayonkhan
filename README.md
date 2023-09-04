@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayon Khan
-=================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ayon Khan
+===========================================================================================================================
 
 Polyglot Programmer
 -------------------
 
-Experienced backend developer passionate about crafting scalable and efficient systems for seamless user experiences. Code enthusiast and problem solver.
+Seasoned backend developer with a deep passion for architecting scalable and highly efficient systems to deliver seamless user experiences. Devoted to coding and adept at solving complex problems.
 
 * 🌍 I'm based in Regina, SK
 * ✉️ You can contact me at [bonjour@ayonkhan.me](mailto:bonjour@ayonkhan.me)
