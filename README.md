@@ -10,7 +10,7 @@ Experienced backend developer passionate about crafting scalable and efficient s
 * ✉️ You can contact me at [bonjour@ayonkhan.me](mailto:bonjour@ayonkhan.me)
 * 🚀 I'm currently working on [DiagCentral](http://dc.ayonkhan.me)
 * 🤝 I'm open to collaborating on free and open source projects
-* ⚡ I find inspiration and relaxation in playing video games and reading books, while my inner AvGeek fuels my fascination with aviation
+* ⚡ I find relaxation in playing video games and reading books, while my inner AvGeek fuels my fascination with aviation
 
 
 ### Skills  
