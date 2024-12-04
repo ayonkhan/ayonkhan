@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Polyglot Programmer
 -------------------
 
-Seasoned backend developer with a deep passion for architecting scalable and highly efficient systems to deliver seamless user experiences. Skilled at tackling complex problems and committed to writing clean, maintainable code.
+Seasoned backend developer with expertise in architecting scalable, efficient systems to deliver seamless user experiences. Skilled at solving complex problems and passionate about writing clean, maintainable code.
 
 * 🌍 I'm based in Regina, SK
 * ✉️ You can contact me at [bonjour@ayonkhan.me](mailto:bonjour@ayonkhan.me)
