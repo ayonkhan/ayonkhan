@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-    Senior software developer focused on backend and distributed systems, API design, and solving complex problems with clean, maintainable code. I enjoy building software that's reliable, practical, and holds up in real production.<br><br>- 📍 Based in Regina, Saskatchewan<br>- ✉️ Reach me at <a href="mailto:bonjour@ayonkhan.me">bonjour@ayonkhan.me</a><br>- 🤝 Happy to collaborate on free and open source projects<br>- ⚡ When I’m not coding, you’ll usually find me gaming, reading, or geeking out over aviation
+    Senior software developer focused on backend and distributed systems, API design, and solving complex problems with clean, maintainable code. I enjoy building software that's reliable, practical, and holds up in real production.<br><br>- 📍 Based in Regina, Saskatchewan<br>- ✉️ Reach me at <a href="mailto:bonjour@ayonkhan.me">bonjour@ayonkhan.me</a><br>- 🤝 Happy to collaborate on free and open source projects<br>- ⚡ When I'm not coding, you'll usually find me gaming, reading, or geeking out over aviation
 </p>
 
 ###
