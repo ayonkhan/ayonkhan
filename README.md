@@ -61,6 +61,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <a href="https://x.com/ayonkhan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="X" />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=333333&logoColor=white&style=for-the-badge" height="25" alt="X" />
   </a>
 </div>
