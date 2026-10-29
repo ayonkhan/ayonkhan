@@ -2,10 +2,10 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  Senior software developer focused on backend and distributed systems, API design, and solving complex problems with clean, maintainable code. I enjoy building software that's reliable, practical, and holds up in real production.
+  Senior full stack developer focused on backend and distributed systems, API design, and solving complex problems with clean, maintainable code. I enjoy building software that's reliable, practical, and holds up in real production.
 </p>
 
 <p align="left">
@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" height="40" alt="AWS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </div>
@@ -54,10 +54,13 @@
 <h3 align="left">🔗 Socials</h3>
 
 <div align="left">
+  <a href="https://www.ayonkhan.ca/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Blog&logo=hugo&label=&color=FF4088&logoColor=white&style=for-the-badge" height="25" alt="Blog" />
+  </a>
   <a href="https://www.linkedin.com/in/ayonkhan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
-  <a href="https://www.twitter.com/ayonkhan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter" />
+  <a href="https://x.com/ayonkhan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="X" />
   </a>
 </div>
