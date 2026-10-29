@@ -54,13 +54,7 @@
 <h3 align="left">🔗 Socials</h3>
 
 <div align="left">
-  <a href="https://www.ayonkhan.ca/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Blog&logo=hugo&label=&color=FF4088&logoColor=white&style=for-the-badge" height="25" alt="Blog" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayonkhan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/ayonkhan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=333333&logoColor=white&style=for-the-badge" height="25" alt="X" />
-  </a>
+  <a href="https://www.ayonkhan.ca/" target="_blank"><img src="https://img.shields.io/static/v1?message=Blog&logo=hugo&label=&color=FF4088&logoColor=white&style=for-the-badge" height="25" alt="Blog" /></a>
+  <a href="https://www.linkedin.com/in/ayonkhan/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" /></a>
+  <a href="https://x.com/ayonkhan" target="_blank"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=333333&logoColor=white&style=for-the-badge" height="25" alt="X" /></a>
 </div>
