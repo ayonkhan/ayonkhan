@@ -5,14 +5,14 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  Senior full-stack developer with a soft spot for backend and distributed systems. I care about good API design and clean, maintainable code, and I enjoy building software that's reliable, practical, and holds up in real production.
+  Senior full-stack developer who loves building scalable, distributed systems. I care about good API design and clean, maintainable code, and I want the software I build to be reliable, practical, and hold up in real production.
 </p>
 
 <p align="left">
   📍 Based in Regina, Saskatchewan<br>
   📬 Reach me at <a href="mailto:hello@ayonkhan.ca">hello@ayonkhan.ca</a><br>
   🧩 Happy to collaborate on free and open source projects<br>
-  🎮 Away from the keyboard, you'll find me gaming, reading, travelling, or deep into anything aviation
+  🎮 Away from the keyboard, you'll find me gaming, reading, travelling, taking photos, or deep into anything aviation
 </p>
 
 ###
